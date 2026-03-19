@@ -60,13 +60,8 @@ Frontend
 
 🌟 Future Improvements
 
-* Full CRUD (employees & tasks)
+* Fully dynamic CRUD for employees and tasks from the UI.
 
-* Role-based access
+* More detailed attendance analytics and reports.
 
-* Deployment
-
-👩‍💻 Author
-
-Rishitha Dandu
-https://github.com/dev-rishitha    
+* Role-based permissions for additional roles (HR, manager).
