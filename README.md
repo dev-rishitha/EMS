@@ -58,13 +58,7 @@ Frontend
     npm install
     npm run dev     
 
-🌟 Future Improvements
-
-* Fully dynamic CRUD for employees and tasks from the UI.
-
-* More detailed attendance analytics and reports.
-
-* Role-based permissions for additional roles (HR, manager).
+## 📸 Screenshots
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-19 145017" src="https://github.com/user-attachments/assets/90ea1e3a-accf-43a0-8df4-3a286bcbcb17" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-19 145344" src="https://github.com/user-attachments/assets/5c2e66eb-68e8-4229-8408-282472ce401e" />
@@ -75,3 +69,13 @@ Frontend
 <img width="1919" height="1031" alt="Screenshot 2026-03-19 145728" src="https://github.com/user-attachments/assets/21c71fa8-fe62-4ab0-8587-f7cd56eaef48" />
 <img width="1918" height="1035" alt="Screenshot 2026-03-19 145635" src="https://github.com/user-attachments/assets/074449bb-82f8-48f2-8b7c-66cb0fb10a29" />
 <img width="1919" height="1029" alt="Screenshot 2026-03-19 145553" src="https://github.com/user-attachments/assets/338da3cf-9b0b-4e15-95f4-a534c291f9ae" />
+
+
+🌟 Future Improvements
+
+* Fully dynamic CRUD for employees and tasks from the UI.
+
+* More detailed attendance analytics and reports.
+
+* Role-based permissions for additional roles (HR, manager).
+
