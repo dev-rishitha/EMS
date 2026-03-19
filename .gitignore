@@ -1,0 +1,19 @@
+# Node modules
+node_modules
+ems-client/node_modules
+ems-server/node_modules
+
+# Env files (secrets)
+.env
+ems-client/.env
+ems-server/.env
+
+# Build outputs
+dist
+build
+ems-client/dist
+ems-client/build
+
+# Logs
+npm-debug.log*
+yarn-error.log*

@@ -1,0 +1,16 @@
+Small Problems For Admin 
+
+1] Dashboard, in component Leave Requests ( Total this month total Leave Request)✅
+
+2] Employees table , should add Filter option and can't edit status (Active, on-leave ,in-active) but option to edit the status is shown in edit model✅
+
+3] All tasks table, unable to edit anything but edit option is there. ✅ (Completed Tasks can be edited ✅)
+
+4] Attendance, No absent is shown (When employee won't mark check-in and check-out should automatically mark as absent)
+
+5] Even the Leave Requests Page , Add This Month Filter 
+filter option like this week, this month, custom Date range . and Quick stats like 
+* Average leave days per employee 
+* Most common leave type 
+* Upcoming leaves in next 7 days
+
